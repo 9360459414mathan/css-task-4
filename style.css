@@ -1,0 +1,30 @@
+
+.a2{
+background-image:url('E:/CSS/backgrounds/b c tack 2/images/bg.jpg');	
+background-repeat:no-repeat;
+background-position:top center;
+height:500px;
+background-size:cover;
+}
+.headings{
+	padding:10px 80px;
+	color:#fff;
+}
+.headings h1{
+	font-size:50px;
+	font-style:italic;
+}
+.headings p{
+	font-size:25px;
+	width:50%;
+	font-weight:600;
+}
+	
+.headings a{
+	background-color:none;
+	border:1px solid white;
+	padding:10px 30px;
+	color:white;
+	text-decoration:none;
+	border-radius:25px;
+}
